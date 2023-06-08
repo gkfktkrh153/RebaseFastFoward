@@ -1,13 +1,13 @@
 plugins {
     id 'java'
-}
+}git
 
 group 'org.example'
 version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
-}
+}n
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
