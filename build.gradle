@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-}
+}git
 
 group 'org.example'
 version '1.0-SNAPSHOT'
